@@ -1,0 +1,12 @@
+ProductCode;EAN;NetPrice;Qty;Description
+WOO-BEANIE;;12,00;40;Beanie
+woo-belt;;40,00;7;Belt
+woo-cap;;11,00;0;Cap
+woo-sunglasses;;30,00;12;Sunglasses (supplier price drop)
+woo-album;;;25;Album (stock only, no price)
+woo-tshirt;;11,25;60;T-Shirt
+ACME-999;4006381333931;9,50;3;New product, not in store
+;;5,00;1;Broken row without SKU
+woo-hoodie-blue;;25,00;8;Hoodie Blue (variation)
+woo-hoodie-red;;25,00;0;Hoodie Red (variation)
+woo-vneck-tee;;10,00;5;Parent SKU of a variable product

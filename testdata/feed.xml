@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <product id="1"><code>woo-beanie</code><ean></ean><price currency="EUR">12.00</price><stock>40</stock></product>
+  <product id="2"><code>woo-belt</code><ean></ean><price currency="EUR">40.00</price><stock>7</stock></product>
+  <product id="3"><code>woo-sunglasses</code><ean></ean><price currency="EUR">30.00</price><stock>12</stock></product>
+  <product id="4"><code>ACME-999</code><ean>4006381333931</ean><price currency="EUR">9.50</price><stock>3</stock></product>
+</catalog>
